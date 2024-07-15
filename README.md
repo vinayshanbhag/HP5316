@@ -7,3 +7,5 @@
 ### PCB
 
 <img src="https://github.com/vinayshanbhag/HP5316/blob/main/PCB-Front.svg"/> <img src="https://github.com/vinayshanbhag/HP5316/blob/main/PCB-Back.svg"/>
+
+<img src="https://github.com/vinayshanbhag/HP5316/blob/main/PCB_PCB_HP5316B_7805_2_2024-07-15.svg" width=600/>
