@@ -14,4 +14,9 @@
 <img src="https://github.com/vinayshanbhag/HP5316/blob/main/photo.jpg" width=200/>
 
 ### Output trace
+
+Ch1 - OCXO output at pin2 (filtered)
+
+Ch2 - GPS disciplined reference
+
 <img src="https://github.com/vinayshanbhag/HP5316/blob/main/trace.png" width=400/> 
