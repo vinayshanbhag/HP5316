@@ -6,6 +6,9 @@ from io import BytesIO
 from datetime import datetime
 
 def main():  
+    """
+    command line utility to connect to a Siglent oscilloscope over TCP/IP and save a screenshot to local disk
+    """
     if len(sys.argv[1:]) != 2:
         print("screenshot.py\nTake screenshot from Siglent oscilloscope and save image to local disk.\nImage format is specified by the file extension (.png/.jpg/.bmp)\nUsage:\nscreenshot.py ip_address output_filename")
         exit()
